@@ -4,4 +4,4 @@
 
 → outputs fresh build/loader.exe
 
-+ build/stub.dll.
+→ build/stub.dll.
